@@ -10,7 +10,7 @@ For documentation click on  [ JsonPowerDB Documentation](http://login2explore.co
 ### sample screenshots : 
 
 
-![Dashboard](https://github.com/darkness4567/Basic_JsonPowerDB_Project/blob/master/Dashboard.PNG)
+![Dashboard](https://github.com/darkness4567/Basic_JsonPowerDB_Project/blob/master/Dashboard.png)
 
-![Index Page](https://github.com/darkness4567/Basic_JsonPowerDB_Project/blob/master/records.PNG)
+![Index Page](https://github.com/darkness4567/Basic_JsonPowerDB_Project/blob/master/records.png)
 
